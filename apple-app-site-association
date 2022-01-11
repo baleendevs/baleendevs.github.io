@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9SB789FH64.com.baleendevs.tessa",
+                "paths": [ "/tessa/share/*"]
+            }
+        ]
+    }
+}
